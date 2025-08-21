@@ -10,7 +10,7 @@ Bu proje, temel kütüphane işlemlerini gerçekleştiren bir **Kütüphane Yön
 -  **Kitap Bilgilerini Görüntüleme**  
   Belirli bir kitapID numarasına göre kitap bilgileri listelenir.
 
-- 🗑 **Kitap Silme**  
+-  **Kitap Silme**  
   kitapID numarası girilen kitap sistemden silinir.
 
 -  **Tüm Kitapları Listeleme**  
